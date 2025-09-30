@@ -67,15 +67,15 @@ The analysis identified several key trends and patterns (summarized inside the n
    cd AICTE_VOIS_Data_analysis
 
 2.**Create and activate a virtual environment (recommended)**
-python -m venv venv
-source venv/bin/activate      # On Windows use `venv\Scripts\activate`
+   
+    python -m venv venv
+    source venv/bin/activate      # On Windows use `venv\Scripts\activate'
 3.**Install required packages**
-
-pip install jupyter pandas numpy plotly matplotlib seaborn
+   ```bash
+   pip install jupyter pandas numpy plotly matplotlib seabor
 
 
 4.**Launch Jupyter Notebook**
-
 jupyter notebook
 
 
