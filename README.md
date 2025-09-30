@@ -6,16 +6,6 @@ This repository contains the complete work and deliverables for my data analysis
 
 ---
 
-## 📁 Project Structure
-     AICTE_VOIS_Data_analysis/
-     ├── AICTE VOIS Internship Project.ipynb  # Main Jupyter Notebook with full analysis
-     ├── Final Presentation.pdf               # Final project presentation slides
-     ├── Internship Completion Certificate/   # Directory containing certificates 
-     ├── Certificate_Abhishek.pdf 
-     └── README.md
-
----
-
 ## 🚀 Overview
 
 This project demonstrates a complete data analysis pipeline, from data loading and cleaning to exploratory data analysis (EDA) and interactive visualization. The primary objective is to uncover patterns, trends, and key metrics within the dataset and present them with clear, interactive visualizations.
