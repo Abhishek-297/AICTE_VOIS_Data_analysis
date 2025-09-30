@@ -69,3 +69,56 @@ The analysis identified several key trends and patterns (summarized inside the n
 2.**Create and activate a virtual environment (recommended)**
 python -m venv venv
 source venv/bin/activate      # On Windows use `venv\Scripts\activate`
+3.**Install required packages**
+
+pip install jupyter pandas numpy plotly matplotlib seaborn
+
+
+4.**Launch Jupyter Notebook**
+
+jupyter notebook
+
+
+5.**Open and run the notebook**
+
+In the Jupyter interface, click AICTE VOIS Internship Project.ipynb.
+
+Run cells sequentially to reproduce the analysis.
+
+
+
+
+Note: The original dataset used in this internship is not included in the repository (privacy/proprietary reasons). Replace the data loading step with your own dataset to run the notebook.
+
+
+---
+
+##📄 Deliverables
+
+AICTE VOIS Internship Project.ipynb — Main code and analysis (Jupyter Notebook).
+
+Final Presentation.pdf — Slide deck summarizing objectives, methods, insights, and conclusions.
+
+Internship Completion Certificate/ — Certificates and offer letter (proof of completion).
+
+
+
+---
+
+##👨‍💻 Author
+
+Abhishek
+GitHub: @Abhishek-297
+
+
+---
+
+##🙏 Acknowledgments
+
+Thank you to AICTE and VOIS for the internship opportunity.
+
+Special thanks to my mentors and guides for their support and feedback throughout the project.
+
+
+
+
