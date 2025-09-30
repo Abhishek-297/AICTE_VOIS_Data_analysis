@@ -105,7 +105,7 @@ Internship Completion Certificate/ — Certificates and offer letter (proof of c
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Abhishek
 GitHub: @Abhishek-297
@@ -113,7 +113,7 @@ GitHub: @Abhishek-297
 
 ---
 
-##🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 Thank you to AICTE and VOIS for the internship opportunity.
 
