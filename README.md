@@ -11,7 +11,7 @@ AICTE_VOIS_Data_analysis/
  ├── AICTE VOIS Internship Project.ipynb  # Main Jupyter Notebook with full analysis
  ├── Final Presentation.pdf               # Final project presentation slides
  ├── Internship Completion Certificate/   # Directory containing certificates 
- ├── Certificate_Abhishek.pdf │  
+ ├── Certificate_Abhishek.pdf 
  └── Offer_Letter_Abhishek.pdf 
  └── README.md
 
