@@ -7,13 +7,12 @@ This repository contains the complete work and deliverables for my data analysis
 ---
 
 ## 📁 Project Structure
-AICTE_VOIS_Data_analysis/
- ├── AICTE VOIS Internship Project.ipynb  # Main Jupyter Notebook with full analysis
- ├── Final Presentation.pdf               # Final project presentation slides
- ├── Internship Completion Certificate/   # Directory containing certificates 
- ├── Certificate_Abhishek.pdf 
- └── Offer_Letter_Abhishek.pdf 
- └── README.md
+     AICTE_VOIS_Data_analysis/
+     ├── AICTE VOIS Internship Project.ipynb  # Main Jupyter Notebook with full analysis
+     ├── Final Presentation.pdf               # Final project presentation slides
+     ├── Internship Completion Certificate/   # Directory containing certificates 
+     ├── Certificate_Abhishek.pdf 
+     └── README.md
 
 ---
 
@@ -71,12 +70,13 @@ The analysis identified several key trends and patterns (summarized inside the n
     python -m venv venv
     source venv/bin/activate      # On Windows use `venv\Scripts\activate'
 3.**Install required packages**
-   ```bash
-   pip install jupyter pandas numpy plotly matplotlib seabor
+   
+    pip install jupyter pandas numpy plotly matplotlib seabor
 
 
 4.**Launch Jupyter Notebook**
-jupyter notebook
+    
+    jupyter notebook
 
 
 5.**Open and run the notebook**
